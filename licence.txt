@@ -1,6 +1,6 @@
-Copyright (c) 2026 CheeseMouse (CheeseMouseModrinth)
+Copyright (c) 2026 CheeseMouseModrinth
 All rights reserved.
 
-This software and associated documentation files are proprietary to CheeseMouse (CheeseMouseModrinth).
+This software and associated documentation files are proprietary to CheeseMouseModrinth.
 Any unauthorized copying, modification, distribution, or commercial use of this material 
 without explicit written permission from the author is strictly prohibited.
